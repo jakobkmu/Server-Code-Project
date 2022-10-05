@@ -1,8 +1,2 @@
-# chat-example
-
-This is the source code for a very simple chat example used for
-the [Getting Started](http://socket.io/get-started/chat/) guide
-of the Socket.IO website.
-
-Please refer to it to learn how to run this application.
+This code uses Node.js for the backend of a server which connects to Android Java and Swift and handles the functionallity of one of my own game projects such as simulating a blackjack which is displayed simultaneously on all devices.
 
